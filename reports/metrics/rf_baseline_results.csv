@@ -1,0 +1,2 @@
+Model Name,Macro F1,Bal. Acc.,Mel. Prec.,Mel. Rec.,Mel. F1
+Random Forest (Baseline),0.2754,0.2528,0.375,0.0179,0.0341

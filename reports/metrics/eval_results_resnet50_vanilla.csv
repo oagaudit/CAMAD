@@ -1,0 +1,2 @@
+Model Name,Macro F1,Bal. Acc.,Mel. Prec.,Mel. Rec.,Mel. F1
+resnet50,0.5505,0.6129,0.5119,0.256,0.3413

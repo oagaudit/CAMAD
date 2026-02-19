@@ -1,0 +1,14 @@
+Model: Random Forest Baseline
+              precision    recall  f1-score   support
+
+       akiec     0.5625    0.1765    0.2687        51
+         bcc     0.5217    0.3117    0.3902        77
+         bkl     0.4432    0.2484    0.3184       157
+          df     0.0000    0.0000    0.0000        22
+         mel     0.3750    0.0179    0.0341       168
+          nv     0.7250    0.9700    0.8298      1000
+        vasc     1.0000    0.0455    0.0870        22
+
+    accuracy                         0.6987      1497
+   macro avg     0.5182    0.2528    0.2754      1497
+weighted avg     0.6335    0.6987    0.6220      1497

@@ -1,0 +1,4 @@
+=== STATISTICAL SIGNIFICANCE REPORT (Resnet50_cbam vs Others) ===
+Resnet50_cbam vs efficientnet_b0 | p-value: 0.001116 | Kappa: 0.5980
+Resnet50_cbam vs resnet50_vanilla | p-value: 0.000239 | Kappa: 0.5506
+Resnet50_cbam vs random_forest   | p-value: 0.000000 | Kappa: 0.2620

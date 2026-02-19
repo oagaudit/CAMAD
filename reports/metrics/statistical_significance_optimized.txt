@@ -1,0 +1,11 @@
+=== STATISTICAL SIGNIFICANCE REPORT (Optimized Thresholds) ===
+
+CAMAD (Opt) vs efficientnet_b0 | p-value: 0.9036839813 | Kappa: 0.6220
+   => Result: Not Significant (p >= 0.05)
+
+CAMAD (Opt) vs resnet50_vanilla | p-value: 0.0000005031 | Kappa: 0.4963
+   => Result: Statistically Significant (p < 0.05)
+
+CAMAD (Opt) vs random_forest   | p-value: 0.0000000000 | Kappa: 0.1898
+   => Result: Statistically Significant (p < 0.05)
+
