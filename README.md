@@ -154,9 +154,9 @@ CBAM integrated after each residual stage of ResNet-50:
 
 ## 🔍 Model Interpretability with Grad-CAM
 
-| Localization Recovery | High Precision | Artifact Robustness |
-| :---: | :---: | :---: |
-| ![Localization Recovery](reports/figures/A_Highlight_Recovery_Visual.png) | ![High Precision](reports/figures/B_Highlight_High_Precision_Visual.png) | ![Artifact Robustness](reports/figures/C_Complex_Artifact_Visual.png) |
+| High Precision | Artifact Robustness |
+| :---: | :---: |
+| ![High Precision](reports/figures/B_Highlight_High_Precision_Visual.png) | ![Artifact Robustness](reports/figures/C_Complex_Artifact_Visual.png) |
 
 ---
 ## 📚 References
