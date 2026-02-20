@@ -22,10 +22,6 @@ For inquiries regarding the **CAMAD** framework, please reach out to the authors
 * **Stallin Ankala**: [stallin.ankala@ue-germany.de](mailto:stallin.ankala@ue-germany.de)
 * **Sarawut Boonyarat**: [sarawut.boonyarat@ue-germany.de](mailto:sarawut.boonyarat@ue-germany.de)
 
-### 🏛️ Affiliation
-**University of Europe for Applied Sciences** Faculty of Technology and Design  
-Potsdam, Germany
-
 ---
 
 ## 📋 Overview
