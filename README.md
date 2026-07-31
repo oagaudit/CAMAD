@@ -6,7 +6,6 @@
 
 ## Authors
 - **Mati Nakphon** (Lead) — University of Europe for Applied Sciences
-- **Stallin Ankala** — University of Europe for Applied Sciences  
 - **Sarawut Boonyarat** — University of Europe for Applied Sciences
 
 ## Overview
