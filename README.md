@@ -5,8 +5,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Authors
-- **Mati Nakphon** (Lead) — University of Europe for Applied Sciences
-- **Sarawut Boonyarat** — University of Europe for Applied Sciences
+- **Mati Nakphon** (Lead) — University of Europe for Applied Sciences, mati.nakphon@ue-germany.de, supernay26@gmail.com
+- **Sarawut Boonyarat** — University of Europe for Applied Sciences, sarawut.boonyarat@ue-germany.de, s4rawut@gmail.com 
 
 ## Overview
 
