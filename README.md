@@ -19,7 +19,7 @@ CAMAD addresses class imbalance in dermoscopic skin lesion classification at thr
 A clinical threshold (τ = 0.20) is selected on validation to maximise melanoma sensitivity while maintaining specificity ≥ 0.80.
 
 ## Dataset
-
+- S. Ghuwalewala, "HAM10000 with segmentation masks," Kaggle dataset. [Online]. Available: https://www.kaggle.com/datasets/surajghuwalewala/ham1000-segmentation-and-classification
 - **HAM10000**: 10,015 dermoscopic images, 7 classes (NV 67%, MEL 11%)
 - **Lesion-level stratified split**: 70/15/15 (1,497 test images, 168 melanomas)
 
